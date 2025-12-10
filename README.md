@@ -1,16 +1,3 @@
-# inputform_alert
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![profile](https://github.com/user-attachments/assets/c0f66967-629e-45d4-bac8-d2d17a72de46)
+![Home](https://github.com/user-attachments/assets/e30d6d14-ad6f-458c-acb3-905d97c24a06)
+![Data](https://github.com/user-attachments/assets/b4262a83-6087-4923-a3a6-e89d946cd0a7)
